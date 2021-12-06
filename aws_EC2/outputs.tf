@@ -1,3 +1,3 @@
 output "secgrp" {
-  value = aws_security_group.secgrp.name
+  value = aws_security_group.secgrp
 }
