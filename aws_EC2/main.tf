@@ -37,5 +37,3 @@ resource "aws_security_group" "secgrp" {
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
-© 2021 GitHub, Inc.
-Terms
